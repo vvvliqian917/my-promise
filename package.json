@@ -1,0 +1,14 @@
+{
+  "name": "my-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vvvliqian917/my-promise.git",
+  "author": "vvvliqian917 <vvvliqian@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests index"
+  }
+}
